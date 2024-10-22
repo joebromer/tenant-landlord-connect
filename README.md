@@ -53,4 +53,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 Contact
 Joseph Kamau Mburu - joseph.kamau1@student.moringaschool.com
 
-Project Link: https://github.com/josephkamau/tenant-landlord-connect
+Project Link: https://github.com/joebromer/tenant-landlord-connect
